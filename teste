@@ -19,9 +19,6 @@ http://51.83.238.223:16141/
 
 ########## Canais Esportes
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
-http://fadder.eletrinho.shop:2095/live2/sportv/chunks.m3u8?token=1701002573_b045dfbf97eee26c6baf8315e5125708c005123f
-
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD 
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/1016
 
@@ -30,9 +27,6 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/175
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD
 http://51.83.238.223:16515/
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais | ESPORTES",ESPN 2 HD
-http://bdtb.io:80/live/378724/pcapQ5/71923.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 HD
 http://191.37.250.169:8801/live/ESPN3/720p.m3u8
