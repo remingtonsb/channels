@@ -1,6 +1,7 @@
 #EXTM3U
 
 ############################################################################# Canais | ABERTO
+
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
