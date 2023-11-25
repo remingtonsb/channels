@@ -1,9 +1,8 @@
 #EXTM3U
 
 ############################################################################# Canais | ABERTO
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",SBT Interior SD Araçatuba SP
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w440614557.m3u8
+#EXTINF:-1, SBT HD
+http://www.iptvip:25461/live/DavdRanielML/p7f0yx4rR6/288.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MG HD
 http://185.150.190.225:16263/
