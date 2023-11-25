@@ -2,14 +2,8 @@
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT RS HD YT
-https://livestream.zazerconer.workers.dev/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",VTV SBT HD YT
-https://livestream.zazerconer.workers.dev/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
-
-#EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT PARÁ HD YT
-https://livestream.zazerconer.workers.dev/channel/UCcDerngKTEU5ryjMS-ThLbg.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/E0VqV6w.png" group-title="Canais | VARIEDADES",SBT Internacional HD
+https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP SD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
