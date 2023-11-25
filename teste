@@ -10,8 +10,8 @@ https://youtube.com/@ManoDT?si=rOj9AqlQZ7So4ovx
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | ABERTO",TV TEM SP HD
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MG HD
 http://185.150.190.225:16263/
@@ -23,10 +23,5 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/504
 http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",Record SP HD
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",Record SP HD
 http://51.83.238.223:16141/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
