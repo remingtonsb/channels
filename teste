@@ -2,14 +2,23 @@
 
 ############################################################################# Canais | ABERTO
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP Interior" tvg-logo="https://s26.postimg.cc/ueaqpl3yh/sbtMEGAMAXPLAY.jpg" group-title="Canais Abertos",SBT SP (Interior)
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?MEGAMAXPLAY
+#EXTINF:-1 tvg-logo="https://imgur.com/E0VqV6w.png" group-title="Canais | VARIEDADES",SBT Internacional HD
+https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
+
+#EXTINF:0 group-title="Canais: Variedades" tvg-name="SBT Interior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:0 group-title="Canais: Variedades" tvg-name="SBT Rio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT Rio
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MG HD
 http://185.150.190.225:16263/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RJ FHD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/504
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MByVw7Z.png" group-title="Canais | ABERTO",SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Campinas HD
 http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
@@ -39,3 +48,58 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-tH54zJr8e8/IoMyIJGQJy/1125.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass US
 http://bdtb.io:80/live/378724/pcapQ5/184047.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Discovery h&h HD
+http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/63
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Discovery h&h HD [Alter]
+
+#EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://imgur.com/qKwrAUT.png" group-title="Canais | REALITY",MasterChef
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Canais | NOVELAS",TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QRxGp7f.png" group-title="Canais | VARIEDADES",Canal Empreender
+https://livestream.zazerconer.workers.dev/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT 
+http://bdtb.io/live/378724/pcapQ5/131136.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="Canais | ABERTO",CATVE TV Cultura HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura RN FHD
+https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
+
+############################################################################ Canais | INTERNACIONAL
+
+#EXTINF:-1  tvg-logo="https://imgur.com/11aNWuU.png" group-title="Canais | INTERNACIONAL",Sic TV
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV 
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hbkDjva.png" group-title="Canais | INTERNACIONAL",TVi Realitys
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?ManoTV
+
+#EXTINF:-1  tvg-logo="https://imgur.com/AntrFrv.png" group-title="Canais | INTERNACIONAL",RTP1
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1  tvg-logo="https://imgur.com/AntrFrv.png" group-title="Canais | INTERNACIONAL",RTP1 HD
+https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bc6tYVZ.png" group-title="Canais | INTERNACIONAL",CNN Portugal
+https://bit.ly/41Pufgt?/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Canais | INTERNACIONAL",CNN Espanhol
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Canais | INTERNACIONAL",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Canais | INTERNACIONAL",CNN USA
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
