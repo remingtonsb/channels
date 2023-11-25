@@ -1,8 +1,8 @@
 #EXTM3U
 
 ############################################################################# Canais | ABERTO
-#EXTINF:-1, SBT HD
-http://www.iptvip:25461/live/DavdRanielML/p7f0yx4rR6/288.ts
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MG HD
 http://185.150.190.225:16263/
